@@ -1,0 +1,23 @@
+{
+  "name": "jojos-bizarre-api",
+  "version": "1.0.0",
+  "repository": "git@github.com:dmtrxw/jojos-bizarre-api.git",
+  "author": "Dimitri Wahyudiputra <dimitri.wahyudiputra@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6",
+    "prettier": "^2.2.0",
+    "sequelize-cli": "^6.2.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "npx nodemon app.js"
+  }
+}
