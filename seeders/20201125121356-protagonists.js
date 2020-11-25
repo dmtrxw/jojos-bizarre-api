@@ -16,7 +16,7 @@ module.exports = {
         name: 'Jonathan Joestar',
         stand: '-',
         imageUrl:
-          'https://static.wikia.nocookie.net/jjba/images/d/d6/Jonathan_infobox_%22Manga%22.jpg/revision/latest/scale-to-width-down/700?cb=20181124035515',
+          'https://static.jojowiki.com/images/b/bd/latest/20200604060843/Jonathan_Infobox_Manga.png',
         createdAt: new Date(),
         updatedAt: new Date(),
       },
@@ -24,7 +24,7 @@ module.exports = {
         name: 'Joseph Joestar',
         stand: 'Hermit Purple',
         imageUrl:
-          'https://static.wikia.nocookie.net/jjba/images/f/f3/Joseph_Infobox-0.jpg/revision/latest/scale-to-width-down/270?cb=20191125174539',
+          'https://static.jojowiki.com/images/thumb/e/e2/latest/20200423212900/Joseph_Joestar_Infobox_Manga.png/540px-Joseph_Joestar_Infobox_Manga.png',
         createdAt: new Date(),
         updatedAt: new Date(),
       },
@@ -32,7 +32,7 @@ module.exports = {
         name: 'Kujo Jotaro',
         stand: 'Star Platinum',
         imageUrl:
-          'https://static.wikia.nocookie.net/jjba/images/0/01/JotaroProfile.png/revision/latest/scale-to-width-down/270?cb=20191125014406',
+          'https://static.jojowiki.com/images/6/69/latest/20201120234225/Jotaro_SC_Infobox_Manga.png',
         createdAt: new Date(),
         updatedAt: new Date(),
       },
@@ -40,7 +40,7 @@ module.exports = {
         name: 'Higashikata Josuke',
         stand: 'Crazy Diamond',
         imageUrl:
-          'https://static.wikia.nocookie.net/jjba/images/2/28/JOsuke4_infobox_manga.jpg/revision/latest/scale-to-width-down/270?cb=20200520183708',
+          'https://static.jojowiki.com/images/thumb/a/a1/latest/20191208112759/Josuke_DU_Infobox_Manga.png/540px-Josuke_DU_Infobox_Manga.png',
         createdAt: new Date(),
         updatedAt: new Date(),
       },
@@ -48,7 +48,7 @@ module.exports = {
         name: 'Giorno Giovanna',
         stand: 'Gold Experience',
         imageUrl:
-          'https://static.wikia.nocookie.net/jjba/images/c/c3/Screen_Shot_2020-01-10_at_9.23.23_am.png/revision/latest/scale-to-width-down/642?cb=20200110092522',
+          'https://static.jojowiki.com/images/thumb/2/21/latest/20201121021348/Giorno_Giovanna_Infobox_Manga.png/540px-Giorno_Giovanna_Infobox_Manga.png',
         createdAt: new Date(),
         updatedAt: new Date(),
       },
@@ -56,7 +56,7 @@ module.exports = {
         name: 'Kujo Jolyne',
         stand: 'Stone Free',
         imageUrl:
-          'https://static.wikia.nocookie.net/jjba/images/3/3e/Jolyne_infobox_manga.jpg/revision/latest/scale-to-width-down/700?cb=20181124040209',
+          'https://static.jojowiki.com/images/2/20/latest/20200923041552/Jolyne_Infobox_Manga.png',
         createdAt: new Date(),
         updatedAt: new Date(),
       },
@@ -64,15 +64,15 @@ module.exports = {
         name: 'Johnny Joestar',
         stand: 'Tusk',
         imageUrl:
-          'https://static.wikia.nocookie.net/jjba/images/9/96/Johny_Joestar_profile.jpg/revision/latest/scale-to-width-down/699?cb=20191229095703',
+          'https://static.jojowiki.com/images/b/b7/latest/20200901210726/Johnny_Joestar_Infobox_Manga.png',
         createdAt: new Date(),
         updatedAt: new Date(),
       },
       {
-        name: 'Higashikata Josuke',
+        name: 'Higashikata Josuke (JoJolion)',
         stand: 'Soft & Wet',
         imageUrl:
-          'https://static.wikia.nocookie.net/jjba/images/d/d2/Jo2uke.png/revision/latest/scale-to-width-down/700?cb=20200105132036',
+          'https://static.jojowiki.com/images/thumb/3/3a/latest/20200305064847/Josuke_JJL_Infobox_Manga.png/540px-Josuke_JJL_Infobox_Manga.png',
         createdAt: new Date(),
         updatedAt: new Date(),
       },
